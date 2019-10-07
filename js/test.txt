@@ -1,0 +1,31 @@
+{
+  "userId": "user_a", 
+  "s3Bucket": "wildrydes-step-module-resource-riderphotos3bucket-1tvd373kohkl8",
+  "s3Key": "1_happy_face.jpg"
+} 
+
+
+{
+  "userId": "user_a", 
+  "s3Bucket": "wildrydes-step-module-resource-riderphotos3bucket-1tvd373kohkl8",
+  "s3Key": "2_sunglass_face.jpg"
+} 
+
+
+{
+  "userId": "user_b",
+  "s3Bucket": "wildrydes-step-module-resource-riderphotos3bucket-1tvd373kohkl8",
+  "s3Key": "2_sunglass_face.jpg"
+} 
+
+{
+  "userId": "user_c",
+  "s3Bucket": "wildrydes-step-module-resource-riderphotos3bucket-1tvd373kohkl8",
+  "s3Key": "3_multiple_faces.jpg"
+} 
+
+{
+  "userId": "user_d",
+  "s3Bucket": "wildrydes-step-module-resource-riderphotos3bucket-1tvd373kohkl8",
+  "s3Key": "4_no_face.jpg"
+} 
